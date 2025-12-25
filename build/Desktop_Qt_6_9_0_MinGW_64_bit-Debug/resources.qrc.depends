@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file>img/world.jpg</file>
-    <file>img/iss.png</file>
-  </qresource>
-</RCC>
